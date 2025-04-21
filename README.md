@@ -1,7 +1,7 @@
 # TerminalAI: AI-Powered Terminal Assistant
 
 <div align="center"> 
-<img src="terminal_screenshot.png" width="70%" />
+<img src="terminal_screenshot.png" width="100%" />
 </div>
 
 TerminalAI is an AI-driven terminal assistant that combines a sleek, dark-themed interface with natural language processing to transform plain English instructions into executable bash commands. Built with Rust for performance and Python for AI integration, it offers a modern workflow enhancement for developers.
