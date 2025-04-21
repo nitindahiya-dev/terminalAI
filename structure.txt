@@ -1,0 +1,10 @@
+/projects/terminalAI/
+├── Cargo.toml
+├── ai_agent.py
+├── venv/
+│   ├── bin/
+│   ├── lib/
+│   └── pyvenv.cfg
+├── src/
+│   ├── main.rs
+│   └── command.rs
