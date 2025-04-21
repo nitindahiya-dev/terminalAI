@@ -1,4 +1,8 @@
 /projects/terminalAI/
+├── public/               # New directory for website assets
+│   ├── index.html        # Landing page
+│   ├── style.css         # (Optional) Separate CSS
+│   └── assets/           # (Optional) Images/fonts
 ├── Cargo.toml
 ├── ai_agent.py
 ├── venv/

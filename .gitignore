@@ -16,7 +16,6 @@ Cargo.lock
 
 # If you are using an IDE or editor:
 .idea/
-.vscode/
 *.swp
 *.swo
 *.swn
@@ -32,3 +31,5 @@ Cargo.lock
 *.so
 *.dylib
 *.dll
+config.bat
+node_modules
